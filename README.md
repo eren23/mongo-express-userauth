@@ -9,3 +9,4 @@ You can use the code after creating a default.json in config file and filling in
   "jwtSecret": "any secret key you choose"
 }
 
+React frontend and user auth scripts added on client folder you can run "npm run dev" command in root directory and use both front and backend together.
