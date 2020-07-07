@@ -10,3 +10,7 @@ You can use the code after creating a default.json in config file and filling in
 }
 
 React frontend and user auth scripts added on client folder you can run "npm run dev" command in root directory and use both front and backend together.
+
+[You can also read the blog post about the project](https://blog.akbuluteren.com/blog/mongoatlas-express-starter)
+
+*Currently only the mongo connection part is available*
